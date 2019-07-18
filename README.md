@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Blog MDX
+  Blog MDX - Gatsby
 </h1>
 
 Ceci est un projet que j'ai réalisé dans le cadre d'une formation GatsbyJS sur Udemy - j'ai utilisé React - GraphQL - MarkDown
